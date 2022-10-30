@@ -9,7 +9,7 @@ body {
 
 
 .iconos {
-    width: 100%;
+    width: 90%;
     align-items: right;
 }
 
@@ -22,6 +22,7 @@ nav ul li {
     right: 0px;
     width: 300px;
     padding: 0px;
+    background-color:#212529 ;
   }
 
 /* Contenedor */
