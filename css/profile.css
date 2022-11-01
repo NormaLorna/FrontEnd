@@ -1,11 +1,10 @@
 body {
-    background: #25b341;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f6f7e9, #25b341);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f6f7e9, #25b341); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-   
+    background: -webkit-linear-gradient(to right,  #050505, #f6f7e9, #25b341);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,  #050505, #f6f7e9, #25b341); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
-/* Nav bar */
+/* Nav bar ,  #f6f7e9, #050505, #f6f7e9, #25b341, #f6f7e9, #050505 */
 
 
 #iconos {
@@ -33,7 +32,7 @@ nav ul li {
 }
 
 .row { 
-    background-color: #f6f7e9;
+    background-color:  #f6f7e9;
     text-align: center;
     vertical-align: middle;
     border: 2px solid rgb(173, 207, 178);
